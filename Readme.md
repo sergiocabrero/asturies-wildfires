@@ -8,7 +8,7 @@ Feel free to use these traces or code in your own research (and please cite our 
 
 - */code* contains the scripts used to analyze the data.
 
-- */data/espanaenllamas* contains some metadata related to the wildfire. Part of this data comes from: [España en Llamas]( https://github.com/jjelosua/espanaenllamas.es-obsolete/data/descarga.csv)
+- */data/espanaenllamas* contains some metadata related to the wildfire. Part of this data comes from: [España en Llamas]( https://github.com/jjelosua/espanaenllamas.es-obsolete/)
 
 - */data/simulations* contains the results of the simulations with [The ONE](https://github.com/akeranen/the-one)  
 
