@@ -16,6 +16,8 @@ Feel free to use these traces or code in your own research (and please cite our 
 
 To repeat the analysis in the paper, execute:
 
+`pip install -r requirements.txt --user`
+
 `sh 1.prepare_data.sh`
 
 `sh 2.analyse_data.sh`
