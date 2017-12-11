@@ -1,6 +1,6 @@
 This repository contains code and data used in the paper:
 
-S. Cabrero, X.G. Pañeda, D. Melendi, R. García, and T. Plagemann, "Using Firefighter Mobility Traces to Understand Ad-Hoc Networks in Wildfires," In IEEE Access, (to appear).
+S. Cabrero, X.G. Pañeda, D. Melendi, R. García, and T. Plagemann, "Using Firefighter Mobility Traces to Understand Ad-Hoc Networks in Wildfires," In IEEE Access, (to appear). pre-print: http://ieeexplore.ieee.org/document/8123860/
 
 Feel free to use these traces or code in your own research (and please cite our paper as source!). Contact me if you have questions.
 
